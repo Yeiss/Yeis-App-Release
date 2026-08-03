@@ -1,0 +1,7 @@
+{
+    "version":  "7.2.8",
+    "sha256":  "1ceb5890046384f8991c5f8ca5d555abb54a689efd230412e6440d4ed1d09c37",
+    "min_supported":  "7.2.8",
+    "mandatory":  false,
+    "notes":  "Security update: closes two activation bypasses, verifies update downloads, and fixes automation on Windows 11 24H2+."
+}
