@@ -1,7 +1,7 @@
 {
-    "version":  "7.2.9",
-    "sha256":  "dd51a844f34342c3e0593d34ffcd13d25b90c5d50b1add632a81ac446e6ee0a9",
-    "min_supported":  "7.2.9",
+    "version":  "7.2.10",
+    "sha256":  "7e9d06cce9a600b52f04191cb0e74d17f75ed06dfc08936d8096463142a23734",
+    "min_supported":  "7.2.10",
     "mandatory":  false,
-    "notes":  "LogBot fixes: no longer re-posts old logs after a restart, and no longer pings for events already reported."
+    "notes":  "Discord bot no longer switches itself off; includes the 7.2.9 LogBot fixes."
 }
