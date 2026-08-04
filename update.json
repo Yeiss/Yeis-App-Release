@@ -1,7 +1,7 @@
 {
-    "version":  "7.2.8",
-    "sha256":  "1ceb5890046384f8991c5f8ca5d555abb54a689efd230412e6440d4ed1d09c37",
-    "min_supported":  "7.2.8",
+    "version":  "7.2.9",
+    "sha256":  "dd51a844f34342c3e0593d34ffcd13d25b90c5d50b1add632a81ac446e6ee0a9",
+    "min_supported":  "7.2.9",
     "mandatory":  false,
-    "notes":  "Security update: closes two activation bypasses, verifies update downloads, and fixes automation on Windows 11 24H2+."
+    "notes":  "LogBot fixes: no longer re-posts old logs after a restart, and no longer pings for events already reported."
 }
