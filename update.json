@@ -1,8 +1,7 @@
 {
-    "version": "8.0.1",
-    "display": "V3.0.001",
-    "sha256": "e11543cf53f3086564879ccc3b166e53c9ea342f435fc67b3a41baae73f170db",
+    "version": "7.2.10",
+    "sha256": "7e9d06cce9a600b52f04191cb0e74d17f75ed06dfc08936d8096463142a23734",
     "min_supported": "7.2.10",
-    "mandatory": true,
-    "notes": "YeisApp V3 - interface refaite, LogBot fiabilise, AutoFeed/AutoFarm/AutoLevel/AutoClaim de nouveau arretables."
+    "mandatory": false,
+    "notes": "Discord bot no longer switches itself off; includes the 7.2.9 LogBot fixes."
 }
