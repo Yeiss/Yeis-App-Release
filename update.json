@@ -1,8 +1,8 @@
 {
-    "version": "8.0.2",
-    "display": "V3.0.002",
-    "sha256": "e753abead7bcc838bc4788b032c42c172f57085a607172dbc6eff40bbacefb37",
+    "version": "8.0.3",
+    "display": "V3.0.003",
+    "sha256": "582d810114b0adb0a6a3bc05f46a75af7329e5de9402b3173e9692387dcdafd9",
     "min_supported": "7.2.10",
     "mandatory": false,
-    "notes": "YeisApp V3 - interface refaite, LogBot fiabilise, AutoFeed/AutoFarm/AutoLevel/AutoClaim de nouveau arretables."
+    "notes": "AutoLevel now applies every requested level, and GachaBot starts without the argument error."
 }
