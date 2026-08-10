@@ -3,6 +3,6 @@
     "display": "V3.0.003",
     "sha256": "582d810114b0adb0a6a3bc05f46a75af7329e5de9402b3173e9692387dcdafd9",
     "min_supported": "7.2.10",
-    "mandatory": false,
-    "notes": "AutoLevel now applies every requested level, and GachaBot starts without the argument error."
+    "mandatory": true,
+    "notes": "Required update: AutoLevel and GachaBot fixes. V3.0.001 users: click Install; if progress stalls, close YeisApp once so the updater can finish and reopen V3.0.003."
 }
