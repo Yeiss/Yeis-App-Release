@@ -1,8 +1,8 @@
 {
-    "version": "8.0.5",
-    "display": "8.0.5",
-    "sha256": "b8a234a8a4c5a24ba6a8cf21e74489cbbebb3a3e526c1d1dfe686282f20bcae2",
+    "version": "8.0.6",
+    "display": "V3.0.006",
+    "sha256": "111a8c8d2c7ddd81ecf771871cd55100be0b709942d7550bd3029004b014b5a3",
     "min_supported": "7.2.10",
     "mandatory": true,
-    "notes": "Mandatory stability and security update: restored live licence verification, fail-closed access control, AutoLevel reliability, GachaBot launch, and self-update fixes."
+    "notes": "GachaBot now holds crystal hotbar keys long enough to open them."
 }
