@@ -1,8 +1,8 @@
 {
-    "version": "8.0.6",
-    "display": "8.0.6",
-    "sha256": "111a8c8d2c7ddd81ecf771871cd55100be0b709942d7550bd3029004b014b5a3",
+    "version": "8.0.7",
+    "display": "8.0.7",
+    "sha256": "7e9df33b8dac5037ddfd3944ba6048b6fa3e0047a18380c1ee479f610c529e44",
     "min_supported": "7.2.10",
     "mandatory": true,
-    "notes": "GachaBot now holds crystal hotbar keys long enough to open them."
+    "notes": "LogBot no longer gets stuck on \"Connecting\" — a bad GachaBot channel ID killed Discord silently."
 }
