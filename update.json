@@ -1,8 +1,8 @@
 {
-    "version": "8.0.8",
-    "display": "8.0.8",
-    "sha256": "47d834c4a3bd8184a1e7bbb9061629bd471144173f117f582110fb7125d8115f",
+    "version": "8.0.9",
+    "display": "8.0.9",
+    "sha256": "ea528e02881d9c1fbfc03346a41ca8e7d13d04755c605a01b104f4ab7acd51e5",
     "min_supported": "7.2.10",
     "mandatory": true,
-    "notes": "GachaBot: pego crystal stations open every crystal again and never hang leaving the station."
+    "notes": "GachaBot: fixes a silent freeze in the teleport retry loop; gacha-open failures now post a screenshot to your Discord log channel."
 }
