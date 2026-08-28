@@ -1,8 +1,8 @@
 {
-    "version": "8.0.10",
-    "display": "8.0.10",
-    "sha256": "f570ddcfe0b2ab88e39724ca63faa034d7eb947de7784cd25352febcbc2aff75",
+    "version": "8.0.11",
+    "display": "8.0.11",
+    "sha256": "41abc72006b42e2eda8284cc959ef7ca9471c8db178d438125e04ebbfe09466e",
     "min_supported": "7.2.10",
     "mandatory": true,
-    "notes": "GachaBot: arrival screenshot and frozen-screen detection at pego station 1."
+    "notes": "GachaBot: crystal hotbar keys pressed by physical position - fixes crystal opening on AZERTY and other non-QWERTY layouts."
 }
