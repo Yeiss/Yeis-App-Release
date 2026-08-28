@@ -1,8 +1,8 @@
 {
-    "version": "8.0.9",
-    "display": "8.0.9",
-    "sha256": "ea528e02881d9c1fbfc03346a41ca8e7d13d04755c605a01b104f4ab7acd51e5",
+    "version": "8.0.10",
+    "display": "8.0.10",
+    "sha256": "f570ddcfe0b2ab88e39724ca63faa034d7eb947de7784cd25352febcbc2aff75",
     "min_supported": "7.2.10",
     "mandatory": true,
-    "notes": "GachaBot: fixes a silent freeze in the teleport retry loop; gacha-open failures now post a screenshot to your Discord log channel."
+    "notes": "GachaBot: arrival screenshot and frozen-screen detection at pego station 1."
 }
