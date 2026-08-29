@@ -1,8 +1,8 @@
 {
-    "version": "8.0.11",
-    "display": "8.0.11",
-    "sha256": "41abc72006b42e2eda8284cc959ef7ca9471c8db178d438125e04ebbfe09466e",
+    "version": "8.0.12",
+    "display": "8.0.12",
+    "sha256": "a07734e6b4c5e2cd5a4c9a6cb327b019bf03fc808406247a13de3c4d45b66790",
     "min_supported": "7.2.10",
     "mandatory": true,
-    "notes": "GachaBot: crystal hotbar keys pressed by physical position - fixes crystal opening on AZERTY and other non-QWERTY layouts."
+    "notes": "GachaBot: stop key moved from F1 to END (crystal opening was stopping the bot), full hotbar row pressed on any keyboard layout."
 }
