@@ -1,8 +1,8 @@
 {
-    "version": "8.0.12",
-    "display": "8.0.12",
-    "sha256": "a07734e6b4c5e2cd5a4c9a6cb327b019bf03fc808406247a13de3c4d45b66790",
+    "version": "8.0.13",
+    "display": "8.0.13",
+    "sha256": "0a145ce833f55fb040cc9bedc801ea96c124257c9014c95987a6954873e6638a",
     "min_supported": "7.2.10",
     "mandatory": true,
-    "notes": "GachaBot: stop key moved from F1 to END (crystal opening was stopping the bot), full hotbar row pressed on any keyboard layout."
+    "notes": "Reliability: mandatory updates self-install even if the update window fails; log messages always show the exact app version."
 }
