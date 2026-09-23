@@ -1,8 +1,8 @@
 {
-    "version": "8.0.13",
-    "display": "8.0.13",
-    "sha256": "0a145ce833f55fb040cc9bedc801ea96c124257c9014c95987a6954873e6638a",
-    "min_supported": "7.2.10",
-    "mandatory": true,
-    "notes": "Reliability: mandatory updates self-install even if the update window fails; log messages always show the exact app version."
+  "version": "8.0.14",
+  "display": "8.0.14",
+  "sha256": "9738302dd272feae7bff7596dd50fc2c8dab95185135ffe801ddbdfc1d4a902e",
+  "min_supported": "7.2.10",
+  "mandatory": true,
+  "notes": "Gacha vault keep: Simple Shotgun (shorty) kept for ~2 weeks."
 }
