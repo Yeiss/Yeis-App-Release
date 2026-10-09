@@ -1,8 +1,8 @@
 {
-  "version": "8.0.14",
-  "display": "8.0.14",
-  "sha256": "9738302dd272feae7bff7596dd50fc2c8dab95185135ffe801ddbdfc1d4a902e",
+  "version": "8.0.15",
+  "display": "8.0.15",
+  "sha256": "061ffcdb66fb0170d77ac3382c82502a3305aad4785d50a276606abdbd5af3b8",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "Gacha vault keep: Simple Shotgun (shorty) kept for ~2 weeks."
+  "notes": "Fix Windows Defender false alert on update."
 }
