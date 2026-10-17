@@ -1,8 +1,8 @@
 {
-  "version": "8.0.15",
-  "display": "8.0.15",
-  "sha256": "061ffcdb66fb0170d77ac3382c82502a3305aad4785d50a276606abdbd5af3b8",
+  "version": "8.0.16",
+  "display": "8.0.16",
+  "sha256": "75ff0d0adc2578b71275f52a63bec851761d5b4ffc0d7fb9f30b79685d0ee39b",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "Fix Windows Defender false alert on update."
+  "notes": "Fix licence server connection."
 }
