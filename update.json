@@ -1,8 +1,8 @@
 {
-  "version": "8.0.16",
-  "display": "8.0.16",
-  "sha256": "75ff0d0adc2578b71275f52a63bec851761d5b4ffc0d7fb9f30b79685d0ee39b",
+  "version": "8.0.17",
+  "display": "8.0.17",
+  "sha256": "14c22e5ab773093633a4a8d825181f28f76c2241f878963defb5cc6f88fc7e6d",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "Fix licence server connection."
+  "notes": "Fix tribe log not rejoining after a disconnect."
 }
