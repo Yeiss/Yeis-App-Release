@@ -1,8 +1,8 @@
 {
-  "version": "8.0.17",
-  "display": "8.0.17",
-  "sha256": "14c22e5ab773093633a4a8d825181f28f76c2241f878963defb5cc6f88fc7e6d",
+  "version": "8.0.18",
+  "display": "8.0.18",
+  "sha256": "9ba9490c4ac04caf83e4ff2a802c236faef552c6a96527eacae14e5fc266a6d6",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "Fix tribe log not rejoining after a disconnect."
+  "notes": "LogBot diagnostics: logs why tribe-log lines were not sent or a rejoin did not start, and shows when LogBot is not delivering."
 }
