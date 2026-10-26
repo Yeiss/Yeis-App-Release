@@ -1,8 +1,8 @@
 {
-  "version": "8.0.18",
-  "display": "8.0.18",
-  "sha256": "9ba9490c4ac04caf83e4ff2a802c236faef552c6a96527eacae14e5fc266a6d6",
+  "version": "8.0.19",
+  "display": "8.0.19",
+  "sha256": "b1d875c9bfe1b9b3bd70a0b422ee284fea28dab9c8e53411ebfadff14de6e22c",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "LogBot diagnostics: logs why tribe-log lines were not sent or a rejoin did not start, and shows when LogBot is not delivering."
+  "notes": "LogBot starts again by itself after an update or an app restart, if it was running before."
 }
