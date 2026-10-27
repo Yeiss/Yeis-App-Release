@@ -1,8 +1,8 @@
 {
-  "version": "8.0.20",
-  "display": "8.0.20",
-  "sha256": "d9257d51477b549d33e9b3ae23fb35772a93fa8d54cbadb5791d4a747d70d3ad",
+  "version": "8.0.21",
+  "display": "8.0.21",
+  "sha256": "8d5d2a49d17c8d5788ce0922189f8cde74f8dc4d6c9e798cdf0289043540eb28",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "LogBot restored to its previous behaviour"
+  "notes": "LogBot works again right after an update (no restart needed)."
 }
