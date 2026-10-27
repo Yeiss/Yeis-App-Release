@@ -1,8 +1,8 @@
 {
-  "version": "8.0.19",
-  "display": "8.0.19",
-  "sha256": "b1d875c9bfe1b9b3bd70a0b422ee284fea28dab9c8e53411ebfadff14de6e22c",
+  "version": "8.0.20",
+  "display": "8.0.20",
+  "sha256": "d9257d51477b549d33e9b3ae23fb35772a93fa8d54cbadb5791d4a747d70d3ad",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "LogBot starts again by itself after an update or an app restart, if it was running before."
+  "notes": "LogBot restored to its previous behaviour"
 }
