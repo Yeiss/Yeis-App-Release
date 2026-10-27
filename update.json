@@ -1,8 +1,8 @@
 {
-  "version": "8.0.21",
-  "display": "8.0.21",
-  "sha256": "8d5d2a49d17c8d5788ce0922189f8cde74f8dc4d6c9e798cdf0289043540eb28",
+  "version": "8.0.22",
+  "display": "8.0.22",
+  "sha256": "8c31b75fa40f8a89f5398a101fe9b4345a54776e30e698a2e502698a55a76d9a",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "LogBot works again right after an update (no restart needed)."
+  "notes": "If you use LogBot, press Start LogBot once after this update: from then on it starts again by itself after updates and restarts. LogBot also retries the rejoin after a disconnect and warns when logs are not delivered."
 }
