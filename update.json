@@ -1,8 +1,8 @@
 {
-  "version": "8.0.23",
-  "display": "8.0.23",
-  "sha256": "d607092cb00383abf45f74cb31e63ea16964b483ffbb64c869e87d11626f4b3c",
+  "version": "8.0.24",
+  "display": "8.0.24",
+  "sha256": "a8877125bdbef0711dd1ad347b2153f4bb0d1c2e55d895006e16b4ef68bbd2e2",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "LogBot now rejoins after a kick that leaves ARK on the main menu or the server list, once nobody has touched the keyboard or mouse for a minute. If you go back to the menu on purpose, stop LogBot first. A controller does not count as activity."
+  "notes": "New AutoFish script in Farming: it presses the bite letter and casts again for you while ARK is the window in front. Press F1 in game to stop it."
 }
