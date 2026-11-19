@@ -1,8 +1,8 @@
 {
-  "version": "8.0.22",
-  "display": "8.0.22",
-  "sha256": "8c31b75fa40f8a89f5398a101fe9b4345a54776e30e698a2e502698a55a76d9a",
+  "version": "8.0.23",
+  "display": "8.0.23",
+  "sha256": "d607092cb00383abf45f74cb31e63ea16964b483ffbb64c869e87d11626f4b3c",
   "min_supported": "7.2.10",
   "mandatory": true,
-  "notes": "If you use LogBot, press Start LogBot once after this update: from then on it starts again by itself after updates and restarts. LogBot also retries the rejoin after a disconnect and warns when logs are not delivered."
+  "notes": "LogBot now rejoins after a kick that leaves ARK on the main menu or the server list, once nobody has touched the keyboard or mouse for a minute. If you go back to the menu on purpose, stop LogBot first. A controller does not count as activity."
 }
